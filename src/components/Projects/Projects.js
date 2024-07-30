@@ -34,10 +34,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={emotion}
               isBlog={false}
-              title="Online Judge"
-              description="Engineered an Online Judge platform enabling real-time code execution and evaluation for correctness, identifying compilation errors.mplemented a ReactJS frontend integrated with a NodeJS backend, Mongodb database, and JWT token authentication. Explored Docker techniques for code isolation to enhance security against untrusted codes."
+              title="Ecommerce Website"
+              description="Implemented Redux architecture to streamline frontend data flow. User and Seller views utilizing ReactJS with Redux
+              integration. Features:- Payment using Stripe, media upload on Cloudinary, Separate admin routes.(Redux, ReactJS,
+              Cloudinary, NodeJS, MongoDB,Heroku, Postman)"
               ghLink="https://github.com/DevAgrawal1112/OJ"
               demoLink="ec2-13-127-199-105.ap-south-1.compute.amazonaws.com:3000"
             />
@@ -55,7 +57,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={leaf}
               isBlog={false}
               title="Virtual Classroom using Unreal Engine"
               description="Built a virtual environment for students deprived of access to specialized Labs. Implemented 3 labs (2 Chemistry
