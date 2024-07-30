@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Online Judge"
               description="Engineered an Online Judge platform enabling real-time code execution and evaluation for correctness, identifying compilation errors.mplemented a ReactJS frontend integrated with a NodeJS backend, Mongodb database, and JWT token authentication. Explored Docker techniques for code isolation to enhance security against untrusted codes."
-              ghLink="https://github.com/DevAgrawal1112/OJ"
+              ghLink="https://github.com/Harman1107/OJ"
               demoLink="ec2-13-127-199-105.ap-south-1.compute.amazonaws.com:3000"
             />
           </Col>
@@ -40,8 +40,7 @@ function Projects() {
               description="Implemented Redux architecture to streamline frontend data flow. User and Seller views utilizing ReactJS with Redux
               integration. Features:- Payment using Stripe, media upload on Cloudinary, Separate admin routes.(Redux, ReactJS,
               Cloudinary, NodeJS, MongoDB,Heroku, Postman)"
-              ghLink="https://github.com/DevAgrawal1112/OJ"
-              demoLink="ec2-13-127-199-105.ap-south-1.compute.amazonaws.com:3000"
+              ghLink="https://github.com/Harman1107/Ecommerce-Website"
             />
           </Col>
 
@@ -72,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Suno Gaana"
               description="Engineered a Music Player displaying top songs, artists, and native songs based on the user’s location. Used Shazam Core API and Geo Location API for loading songs and live location of a user respectively. Developed the frontend using ReactJS, tailwind, and incorporated Redux"
-              ghLink="https://github.com/DevAgrawal1112/suno-gaana"
+              ghLink="https://github.com/Harman1107/suno-gaana"
             />
           </Col>
         </Row>
